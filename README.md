@@ -9,7 +9,7 @@
 
 ###
 
-<br clear="both">
+
 
 <a href="https://github.com/sinaf2000">
   <img src="https://raw.githubusercontent.com/sinaf2000/sinaf2000/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
