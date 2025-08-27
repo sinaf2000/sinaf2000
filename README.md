@@ -1,15 +1,16 @@
-# 💫 About Me:
-Null
+<h2 align="left">Null</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sinaf2000&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sinaf2000&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaf2000&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sinaf2000&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinaf2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinaf2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sinaf2000&icon=5&color=4)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sinaf2000/sinaf2000/output/snake.svg" alt="Snake animation" />
+
+###
