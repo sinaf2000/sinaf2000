@@ -8,4 +8,6 @@
 ---
 ![Top Langs](https://github-readme-stats-git-main-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-git-main-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hwin3ijr1-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000)](https://github.com/anuraghazra/github-readme-stats)
+
