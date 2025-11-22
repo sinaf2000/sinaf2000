@@ -7,7 +7,7 @@
 
 ---
 ![Top Langs](https://stats-9nh9-ngavpvc7g-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000&layout=compact&theme=tokyonight)
-![Top Langs](https://stats-9nh9-git-main-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000&layout=compact&theme=tokyonight)
+![Top Langs](https://stats-9nh9-k4cv406vq-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000&layout=compact&theme=tokyonight)
 
 [![Top Langs](https://stats-9nh9-git-main-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sina2000s-projects.vercel.app/api/top-langs/?username=sinaf2000)](https://github.com/anuraghazra/github-readme-stats)
